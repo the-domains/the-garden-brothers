@@ -1,0 +1,28 @@
+name: The Garden Brothers
+favicon: null
+layout_spectrum: 0.9325475709047168
+typography_spectrum: 0.4657732928171754
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.07929903012700379
+  lightness: 0.8986077981535345
+  saturation: 0.2376092947088182
+  rhythmicContrast: 0.8167656420264393
+purpose: []
