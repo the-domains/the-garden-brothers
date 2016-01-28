@@ -1,5 +1,8 @@
+name: The Garden Brothers
+favicon: null
+layout_spectrum: 0.4617021
+typography_spectrum: 0.2382979
 title: Home Vegetable Garden Specialists
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.6085106
-  brandStrength: 0.0625
-  lightness: 0.4
   brandColors:
     - '#033001'
     - '#1FE903'
     - '#415D6E'
     - '#92A3B3'
     - '#BDF3F3'
+  brandStrength: 0.0625
+  lightness: 0.4
+  saturation: 0.6085106
   rhythmicContrast: 0.5510638
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: The Garden Brothers
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.2382979
-layout_spectrum: 0.4617021
+purpose: []
