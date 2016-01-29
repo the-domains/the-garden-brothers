@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: This design offers gardeners the ability to grow and produce for fruit in a small space due to its design made to take advantage of height in order to conserve space.
-datePublished: '2016-01-29T00:30:03.590Z'
-dateModified: '2016-01-29T00:29:52.905Z'
+datePublished: '2016-01-29T00:34:10.300Z'
+dateModified: '2016-01-29T00:33:54.458Z'
 title: The raised vertical Design
 author: []
+sourcePath: _posts/2016-01-29-the-raised-vertical-design.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-29-the-raised-vertical-design.md
-published: true
 url: the-raised-vertical-design/index.html
 _type: Article
 
